@@ -1,0 +1,8 @@
+langchain
+langgraph
+openai
+streamlit
+arxiv
+semanticscholar
+requests
+pandas
